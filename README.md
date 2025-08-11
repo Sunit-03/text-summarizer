@@ -1,6 +1,6 @@
 # 🦙 LLaMA Text Summarizer
 
-A simple text summarization app using the **LLaMA model via Ollama**, powered by **FastAPI** (backend) and **Streamlit** (frontend). Run everything locally and summarize large chunks of text in seconds.
+A simple text summarization app using the **Gemma:2b model via Ollama**, powered by **FastAPI** (backend) and **Streamlit** (frontend). Run everything locally and summarize large chunks of text in seconds.
 
 ---
 
@@ -15,7 +15,7 @@ A simple text summarization app using the **LLaMA model via Ollama**, powered by
 
 ## 🛠️ Tech Stack
 
-- 🦙 **LLaMA** (via Ollama)  
+- 🦙 **Gemma:2b** (via Ollama)  
 - 🚀 **FastAPI** – RESTful backend  
 - 🖥 **Streamlit** – Interactive frontend UI  
 - 🗂 **Git/GitHub** – Version control & collaboration
@@ -94,7 +94,7 @@ $ streamlit run frontend/app.py
 ---
 ## 📃 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE) © 2025 Sunit Mohan.
 Feel free to use, modify, and share with attribution.
 
 ---
